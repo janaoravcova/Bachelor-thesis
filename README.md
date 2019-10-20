@@ -1,37 +1,47 @@
-## Welcome to GitHub Pages
+## Vítajte
 
-You can use the [editor on GitHub](https://github.com/janaoravcova/bachelor-thesis/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Nachádzate sa na stránke venovanej mojej bakalárskej práci.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Názov
 
-### Markdown
+Softvérová podpora vyučovania matematiky Hejného metódou - prostredie Siete telies
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Vedúci
+RNDr. Peter Borovanský, PhD
 
-```markdown
-Syntax highlighted code block
+### Konzultant
+RNDr. Dagmar Môťovská, PhD
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+### Anotácia
 
-1. Numbered
-2. List
+Aplikácie sa opierajú o didaktickú kvalitu vyučovania matematiky Hejného
+metódou, zadania úloh budú vyberané z učebníc matematiky Hejný, M.,
+Jirotková, D., Slezáková, J., Bomerová, E., Michnová, J.: MATEMATIKA
+1.-5., učebnice pro základní školy, Fraus, 2007-2011. Samotné matematické
+prostredia z týchto učebníc poskytujú gradáciu, flexibilitu a počítajú
+s interaktivitou, čo sa týka stvárnenia učebnej látky, úloh na riešenie,
+aj stratégií riešenia. Tieto vlastnosti prostredí treba využiť a preniesť
+do navrhovaného softvéru. Navrhovaný softvér ponúkne jednotlivým žiakom
+dostatočné množstvo úloh na jednotlivých úrovniach, podľa ich individuálnych
+potrieb, čím bude prínosom pre vyučovanie Hejného metódou. Zároveň treba
+zabezpečiť technickú kvalitu softvéru, kvalitu grafiky, používateľský komfort,
+prehľadnosť, spoľahlivosť a rýchlosť.
 
-**Bold** and _Italic_ and `Code` text
+### Cieľ
+Cieľom práce je vytvoriť mobilnú aplikáciu (pre tablet) na tému zvoleného
+prostredia Hejného matematiky (HM). Aplikácia pre prvý stupeň ZŠ
+musí spĺňať zásady tvorby didaktického softvéru. Aplikácia musí byť
+testovaná na skupine žiakov, a následne upravená podľa zistených potrieb
+a event. nedostatkov. Zvolené prostredie HM pokrýva viacero typovo
+odlišných gradujúcich úloh/úrovní zodpovedajúcich konceptom, ktoré žiaci
+na danej úrovni objavujú. Aplikácia precvičuje každú úlohu/úroveň na sade
+predvolených a generovaných zadaní. Až po jej zvládnutí môže žiak pokročiť
+do ďalšej úrovne. Žiak má možnosť vytvoriť vlastné zadanie v rámci
+každej úlohy/úrovne. Pri návrhu nového zadania (ako aj pri jeho riešení)
+aplikácia indikuje počet existujúcich/zostávajúcich riešení daného zadania.
+Generátor zadaní musí generovať zadania s rozumným počtom existujúcich
+riešení. Aplikácia si ukladá výsledky práce žiaka, ponúka možnosť priebežnej
+kontroly a prehľad hodnotenia úspešnosti. Prvé testovanie s deťmi v triede sa
+predpokladá v apríli, druhé testovanie v triede sa predpokladá v júni.
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/janaoravcova/bachelor-thesis/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
