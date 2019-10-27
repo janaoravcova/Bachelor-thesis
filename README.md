@@ -1,7 +1,7 @@
-[O stránke](#Názov)\
-[Časový plán](#Časový-plán)\
-[Zdroje](#Zdroje)\
-[Denník](#Denník)
+#[O stránke](#Názov)
+#[Časový plán](#Časový-plán)
+#[Zdroje](#Zdroje)
+#[Denník](#Denník)
 
 ## <a name="about"></a>Vítajte
 
