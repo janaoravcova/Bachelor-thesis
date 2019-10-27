@@ -1,4 +1,4 @@
-##[link](about)
+##[O stránke](#Názov)
 ## <a name="about"></a>Vítajte
 
 Nachádzate sa na stránke venovanej mojej bakalárskej práci.
