@@ -1,5 +1,5 @@
 [O stránke](#Názov)
-[Časový plán](#Časový plán)
+[Časový plán](#Časový-plán)
 [Zdroje](#Zdroje)
 [Denník](#Denník)
 
