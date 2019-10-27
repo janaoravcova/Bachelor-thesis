@@ -1,1 +1,8 @@
+#basic options
+title: Bakalárska práca
+author: Jana Oravcová
+email: oravcova145@uniba.sk
+description: Stránka o bakalárskej práci
+
+#build settings
 theme: jekyll-theme-architect
