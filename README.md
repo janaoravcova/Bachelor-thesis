@@ -1,4 +1,8 @@
-##[O stránke](#Názov)
+[O stránke](#Názov)
+[Časový plán](#Časový plán)
+[Zdroje](#Zdroje)
+[Denník](#Denník)
+
 ## <a name="about"></a>Vítajte
 
 Nachádzate sa na stránke venovanej mojej bakalárskej práci.
@@ -46,3 +50,8 @@ riešení. Aplikácia si ukladá výsledky práce žiaka, ponúka možnosť prie
 kontroly a prehľad hodnotenia úspešnosti. Prvé testovanie s deťmi v triede sa
 predpokladá v apríli, druhé testovanie v triede sa predpokladá v júni.
 
+### Časový plán
+
+### Zdroje
+
+### Denník
