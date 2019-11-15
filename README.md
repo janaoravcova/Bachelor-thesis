@@ -48,6 +48,18 @@ predpokladá v apríli, druhé testovanie v triede sa predpokladá v júni.
 
 ### Časový plán
 
+* do 31.10. 2019 - webová stránka o bakalárskej práci
+* v novembri 2019 - rozvrhnutie levelov a úloh v aplikácii
+* do 12.11. 2019 - časový plán bakalárskej práce
+* do 26.11. 2019 - zozbieranie zdrojov
+* do decembra 2019 - grafický návrh aplikácie
+* do januára 2020 - funkčný prototyp nejakej náročnejšej časti aplikácie
+* do januára 2020 -  napísaná jedna kapitola bakalárskej práce
+* do februára 2020 - funkčné užívateľské prostredie
+* do marca 2020 - generovanie a solver úloh
+* do apríla 2020 - funkčná aplikácia
+* v apríli 2020 - testovanie so žiakmi a implementovanie nápadov a pripomienok
+
 ### Zdroje
 
 ### Denník
