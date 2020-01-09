@@ -61,5 +61,5 @@ predpokladá v apríli, druhé testovanie v triede sa predpokladá v júni.
 * v apríli 2020 - testovanie so žiakmi a implementovanie nápadov a pripomienok
 
 ### Zdroje
-Východisková kapitola (Vychodiskova kapitola.pdf)
+Východisková kapitola [Pozri](Vychodiskova kapitola.pdf)
 ### Denník
