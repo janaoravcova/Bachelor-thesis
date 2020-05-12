@@ -61,10 +61,11 @@ predpokladá v apríli, druhé testovanie v triede sa predpokladá v júni.
 * v apríli 2020 - testovanie so žiakmi a implementovanie nápadov a pripomienok
 
 ### Zdroje
-Východisková kapitola [Pozri](Vychodiskova kapitola.pdf)
-Aplikácie [Pozri](https://play.google.com/store/apps/details?id=com.Company.Siete)
+* Východisková kapitola [Pozri](Vychodiskova kapitola.pdf)
+* Aplikácie [Pozri](https://play.google.com/store/apps/details?id=com.Company.Siete)
 ### Denník
-* 1. týždeň - gradické rozhranie pre tretiu úroveň, algoritmus na vyhodnocovanie - návrh
+## 1. týždeň
+- gradické rozhranie pre tretiu úroveň, algoritmus na vyhodnocovanie - návrh
 * 2. týždeň - doladzovanie algoritmu na vyhodnocovanie úloh tretej úrovne 
 * 3. týždeň - grafické rozhranie pre prvú úroveň a vyhodnocovanie úloh pre prvú úroveň
 * 4. týždeň - generovanie úloh pre prvú a tretiu úroveň
