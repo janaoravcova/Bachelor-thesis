@@ -62,4 +62,14 @@ predpokladá v apríli, druhé testovanie v triede sa predpokladá v júni.
 
 ### Zdroje
 Východisková kapitola [Pozri](Vychodiskova kapitola.pdf)
+Aplikácie [Pozri](https://play.google.com/store/apps/details?id=com.Company.Siete)
 ### Denník
+* 1. týždeň - gradické rozhranie pre tretiu úroveň, algoritmus na vyhodnocovanie - návrh
+* 2. týždeň - doladzovanie algoritmu na vyhodnocovanie úloh tretej úrovne 
+* 3. týždeň - grafické rozhranie pre prvú úroveň a vyhodnocovanie úloh pre prvú úroveň
+* 4. týždeň - generovanie úloh pre prvú a tretiu úroveň
+* 5. týždeň - druhá a štvrtá úloha komplet ( generovanie, UI, vyhodnocovanie), hlavné menu a reset levelov
+* 6. týždeň - úprava prvej a tretej úrovne - pridané limity pre použitie jednotlivých sietí + vizuálne upozornenie na neúspešný pokus
+* 7. týždeň - nahratie aplikácie na GooglePlay a úpravy aplikácie pre vytvorenie portable standalone exe
+* 8. týždeň - 2. kapitola - Návrh, zapracovanie úprav do aplikácie po testovaní, update na GooglePlay
+* 9. týždeň - 3. kapitola - Implementácia
