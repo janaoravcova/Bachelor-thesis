@@ -74,3 +74,5 @@ predpokladá v apríli, druhé testovanie v triede sa predpokladá v júni.
 7. týždeň - nahratie aplikácie na GooglePlay a úpravy aplikácie pre vytvorenie portable standalone exe
 8. týždeň - 2. kapitola - Návrh, zapracovanie úprav do aplikácie po testovaní, update na GooglePlay
 9. týždeň - 3. kapitola - Implementácia
+10. týždeň - zapracovanie pripomienok z testovaní - pridanie komponentov slúžiacich ako nápoveda k ovládaniu a cielu aplikácie
+11. týždeň - Písanie úvodu, záveru, abstraktov
