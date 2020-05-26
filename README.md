@@ -5,7 +5,7 @@ Nachádzate sa na stránke venovanej mojej bakalárskej práci.
 
 ### Názov
 
-Softvérová podpora vyučovania matematiky Hejného metódou - prostredie Siete telies
+Softvérová podpora vyučovania matematiky Hejného metódou - prostredie Siete kociek
 
 ### Vedúci
 RNDr. Peter Borovanský, PhD
