@@ -62,8 +62,10 @@ predpokladá v apríli, druhé testovanie v triede sa predpokladá v júni.
 
 ### Zdroje
 * Východisková kapitola [Pozri](Vychodiskova kapitola.pdf)
-* Aplikácie [Pozri](https://play.google.com/store/apps/details?id=com.Company.Siete)
+* Aplikácia na Google Play [Pozri](https://play.google.com/store/apps/details?id=com.Company.Siete)
 * Bakalárska práca - text [Pozri](BakalarskaPraca.pdf)
+* APK - [Stiahni](https://drive.google.com/file/d/1MveVTaI2C1YuHKCHGtvInDx6q6sFnRNl/view?usp=sharing)
+
 ### Denník
 1. týždeň - gradické rozhranie pre tretiu úroveň, algoritmus na vyhodnocovanie - návrh
 2. týždeň - doladzovanie algoritmu na vyhodnocovanie úloh tretej úrovne 
